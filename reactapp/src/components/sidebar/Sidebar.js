@@ -19,7 +19,7 @@ function Sidebar() {
         {/* iconicontest */}
         <TwitterIcon className='sidebar_twitterIcon'/>
 
-        {/* option */}
+        {/* optiontest */}
         <SidebarOption text="Home" Icon={HomeIcon} />
         <SidebarOption text="Search Topic" Icon={SearchIcon}/>
         <SidebarOption text="Notifications" Icon={NotificationsNoneIcon}/>
