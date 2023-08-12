@@ -16,10 +16,10 @@ import "./Sidebar.css";
 function Sidebar() {
   return (
     <div className="sidebar">
-        {/* icon */}
+        {/* iconicon */}
         <TwitterIcon className='sidebar_twitterIcon'/>
 
-        {/* optionoption */}
+        {/* option */}
         <SidebarOption text="Home" Icon={HomeIcon} />
         <SidebarOption text="Search Topic" Icon={SearchIcon}/>
         <SidebarOption text="Notifications" Icon={NotificationsNoneIcon}/>
