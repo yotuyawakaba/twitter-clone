@@ -16,7 +16,7 @@ import "./Sidebar.css";
 function Sidebar() {
   return (
     <div className="sidebar">
-        {/* iconicon */}
+        {/* icon */}
         <TwitterIcon className='sidebar_twitterIcon'/>
 
         {/* option */}
@@ -29,7 +29,7 @@ function Sidebar() {
         <SidebarOption text="Profile" Icon={PermIdentityIcon}/>
         <SidebarOption text="More" Icon={MoreHorizIcon}/>
 
-        {/* buttonbutton */}
+        {/* button */}
         <Button variant="outlined" className='sidebar_tweet' fullWidth>Tweet</Button>
     </div>
   )
