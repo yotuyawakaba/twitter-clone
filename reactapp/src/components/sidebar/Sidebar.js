@@ -16,7 +16,7 @@ import "./Sidebar.css";
 function Sidebar() {
   return (
     <div className="sidebar">
-        {/* iconicon */}
+        {/* iconicontest */}
         <TwitterIcon className='sidebar_twitterIcon'/>
 
         {/* option */}
